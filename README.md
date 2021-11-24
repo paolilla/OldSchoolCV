@@ -1,2 +1,2 @@
 # OldSchoolCV
-## HTML Basics Practice
+### HTML Basics Practice
